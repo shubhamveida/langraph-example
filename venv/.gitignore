@@ -1,8 +1,0 @@
-# .gitignore
-.env
-venv/
-.venv/
-__pycache__/
-audits/
-*.pyc
-.DS_Store
